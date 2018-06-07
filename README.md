@@ -1,0 +1,2 @@
+# DA-Project-2
+Visualising the Gender Gap in College Graduates. In this project, I aim to visualize the gender gap in college degrees. Using custom plots to compare the gender gap. The US Department of Education released a dataset containing the percentage of  bachelor's degrees granted to women from 1970 to 2012. The dataset I am using below was cleansed by Randal Olson, a data scientist at University of Pennsylvania.
